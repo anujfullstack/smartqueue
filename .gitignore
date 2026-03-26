@@ -1,5 +1,10 @@
 bin/
 obj/
 node_modules/
+dist/
+build/
 .env
+.env.local
 .vscode/
+*.log
+.DS_Store
