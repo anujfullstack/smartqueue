@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="WaitWise.Agent/WaitWise.Agent.csproj" />
+  <Project Path="WaitWise.Api/WaitWise.Api.csproj" />
+  <Project Path="WaitWise.Dal/WaitWise.Dal.csproj" />
+  <Project Path="WaitWise.Services/WaitWise.Services.csproj" />
+  <Project Path="WaitWise.Unittest/WaitWise.Unittest.csproj" />
+</Solution>

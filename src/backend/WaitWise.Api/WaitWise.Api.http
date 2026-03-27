@@ -1,0 +1,6 @@
+@WaitWise.Api_HostAddress = http://localhost:5274
+
+GET {{WaitWise.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
